@@ -1,0 +1,53 @@
+[
+    {
+      "id": "12345",
+      "cover": "https://i.ibb.co/cby1wMm/6170792.jpg",
+      "title": "The Art of Imaginary Painting",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/mFd7tSH/round-avatar-with-young-woman-free-vector.jpg",
+      "posted_date": "2023-09-11",
+      "reading_time": 10,
+      "hashtags": ["art", "creativity", "imagination"]
+    },
+    {
+      "id": "67890",
+      "cover": "https://i.ibb.co/cby1wMm/6170792.jpg",
+      "title": "Exploring the Uncharted Wilderness",
+      "author": "Bob Smith",
+      "author_img": "https://i.ibb.co/mFd7tSH/round-avatar-with-young-woman-free-vector.jpg",
+      "posted_date": "2023-09-10",
+      "reading_time": 8,
+      "hashtags": ["adventure", "nature", "exploration"]
+    },
+    {
+      "id": "13579",
+      "cover": "https://i.ibb.co/cby1wMm/6170792.jpg",
+      "title": "Cooking Delight: A Culinary Journey",
+      "author": "Emily Davis",
+      "author_img": "https://i.ibb.co/mFd7tSH/round-avatar-with-young-woman-free-vector.jpg",
+      "posted_date": "2023-09-09",
+      "reading_time": 15,
+      "hashtags": ["food", "cooking", "recipes"]
+    },
+    {
+      "id": "24680",
+      "cover": "https://i.ibb.co/cby1wMm/6170792.jpg",
+      "title": "The Science of Fiction",
+      "author": "David Anderson",
+      "author_img": "https://i.ibb.co/mFd7tSH/round-avatar-with-young-woman-free-vector.jpg",
+      "posted_date": "2023-09-08",
+      "reading_time": 12,
+      "hashtags": ["science", "fiction", "literature"]
+    },
+    {
+      "id": "98765",
+      "cover": "https://i.ibb.co/cby1wMm/6170792.jpg",
+      "title": "Fitness Fundamentals: A Guide to Staying Active",
+      "author": "Sarah Roberts",
+      "author_img": "https://i.ibb.co/mFd7tSH/round-avatar-with-young-woman-free-vector.jpg",
+      "posted_date": "2023-09-07",
+      "reading_time": 20,
+      "hashtags": ["fitness", "health", "exercise"]
+    }
+  ]
+  
